@@ -2,13 +2,16 @@
 
 **B.Eng. Mechanical & AI Systems Engineering — Western University · graduating April 2028**
 
-I'm an engineer by study and a builder by instinct. My interests live where the
-technical meets the human: **project engineering & management, product design,
-industrial & UX design, manufacturing**, and applied **AI & robotics**.
+I'm an engineer by study and a builder by instinct. My interests span the full
+mechanical + AI engineering toolkit — and where it meets people: **mechanical
+design, robotics & mechatronics, automation, controls, applied AI**, plus
+**project engineering & management, product design, industrial & UX design,
+and manufacturing**. I'm not boxing myself into one lane.
 
 I'm the friend who shows up — for my team, my community, and anyone counting on
-me. I'm multi-passionate and still discovering my one big passion, so I try
-everything and I learn fast; that curiosity *is* the point.
+me. The main thing about me: **I love to learn — it's how I live my life.** I'm
+multi-passionate and still discovering my one big passion, so I try everything
+and I learn fast; that curiosity *is* the point.
 
 ## A few things about me
 
