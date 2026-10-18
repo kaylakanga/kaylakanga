@@ -13,11 +13,30 @@ me. The main thing about me: **I love to learn — it's how I live my life.** I'
 multi-passionate and still discovering my one big passion, so I try everything
 and I learn fast; that curiosity *is* the point.
 
-## A few things about me
+## What I'm working on
 
-- 🎓 Final-year Mechanical & AI Systems Engineering at **Western University** (London, ON) — fluent in English and French
-- 💼 Project Management Intern at **JLL** (2025); years of team leadership across engineering student life
-- ✊🏾 Co-founding member of the **re-ratified NSBE Western** chapter, where I serve as Senior Advisor — I'm deeply pro-Black and committed to Black people thriving in technical spaces
+- 🏗️ **[capex-tracker](https://github.com/kaylakanga/capex-tracker)** — a project-controls
+  case study (earned value, change orders, forecasting) for a phased community
+  arts centre expansion, built as a working app
+- 🎛️ **[cartpolecontrol](https://github.com/kaylakanga/cartpolecontrol)** — modelling
+  and control of an inverted pendulum: state-space analysis, stability and
+  controllability checks, and an LQR balancing controller, in MATLAB and Python
+- ⚖️ **[fairnessaudit](https://github.com/kaylakanga/fairnessaudit)** — a fairness
+  audit of machine-learning classifiers in Python (aif360, Fairlearn): measuring
+  bias gaps, testing mitigations, and writing it up as a model card
+
+## Experience & leadership
+
+- 💼 Project Management Intern at **JLL** (2025) — project data, reporting and
+  close-out support on capital projects; before that, Research Assistant with
+  Western's Faculty of Engineering, analysing two decades of funding data
+- 🎓 **Residence Don** at Western (2023–2025) — two years supporting a community
+  of 45–50 first-year students: programming, mentorship, conflict resolution
+- 💰 **VP Finance, Black Students' Association** — budgets, grants and
+  sponsorships, event revenue and financial reporting
+- ✊🏾 Co-President and a founding member of the **re-ratified NSBE Western**
+  chapter
+- 🎓 Final-year student in London, ON — fluent in English and French
 - ✈️ Traveller, learner, and proud generalist
 
 ## Tech & tools
